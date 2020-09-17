@@ -1,0 +1,111 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="&quot;event&quot;:&quot;app.start&quot;," />
+        <option value=".*Artifact Instance of .* is not required, skipping update." />
+        <option value="/AppData/Local/Android/Sdk\platform-tools\adb.exe" />
+        <option value="60988" />
+        <option value="&lt;- compile package" />
+        <option value="&lt;- recompile package:ishop/" />
+        <option value="&lt;- reset" />
+        <option value="[        ] 1.21.0-9.2.pre" />
+        <option value="[        ] 81a45ec2e5f80fa71d5135f1702ce540558b416d" />
+        <option value="[        ] &lt;- ab150621-0af0-48a7-b461-775c56099c43" />
+        <option value="[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update." />
+        <option value="[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update." />
+        <option value="[        ] Artifact Instance of * is not required, skipping update." />
+        <option value="[        ] beta" />
+        <option value="[        ] executing: [C:\Users\brenn\source\repos\flutter/] git ls-remote --get-url origin" />
+        <option value="[        ] executing: [C:\Users\brenn\source\repos\flutter/] git tag --contains HEAD" />
+        <option value="[        ] https://github.com/flutter/flutter.git" />
+        <option value="[        ] origin/beta" />
+        <option value="[   +1 ms] &lt;- accept" />
+        <option value="[   +1 ms] Synced 6.2MB." />
+        <option value="[  +14 ms] executing: [C:\Users\brenn\source\repos\flutter/] git rev-parse --abbrev-ref --symbolic @{u}" />
+        <option value="[  +26 ms] executing: D:/AppData/Local/Android/Sdk\platform-tools\adb.exe devices -l" />
+        <option value="[  +29 ms] Exit code 0 from: git ls-remote --get-url origin" />
+        <option value="[  +33 ms] Exit code 0 from: git rev-parse --abbrev-ref --symbolic @{u}" />
+        <option value="[  +34 ms] Exit code 0 from: git rev-parse --abbrev-ref HEAD" />
+        <option value="[  +56 ms] Artifact Instance of 'AndroidMavenArtifacts' is not required, skipping update." />
+        <option value="[  +62 ms] executing: [C:\Users\brenn\source\repos\flutter/] git rev-parse --abbrev-ref HEAD" />
+        <option value="[  +63 ms] d951ebccf671408a81974b781086c16cf24a752d" />
+        <option value="[  +63 ms] List of devices attached" />
+        <option value="[  +73 ms] Exit code 0 from: git -c log.showSignature=false log -n 1 --pretty=format:%H" />
+        <option value="[ +131 ms] executing: [C:\Users\brenn\source\repos\flutter/] git -c log.showSignature=false log -n 1 --pretty=format:%H" />
+        <option value="[ +224 ms] Exit code 0 from: git tag --contains HEAD" />
+        <option value="[{&quot;event&quot;:&quot;app.progress&quot;" />
+        <option value="\android\gradlew.bat." />
+        <option value="A: android:" />
+        <option value="A: package" />
+        <option value="A: platform" />
+        <option value="A: platformBuildVersionCode=(type 0x10)0x1e" />
+        <option value="aching compiled dill" />
+        <option value="Android Debug Bridge version" />
+        <option value="Android Studio\jre\bin\java" />
+        <option value="android=http://schemas.android.com/apk/res/android" />
+        <option value="android\gradlew.bat" />
+        <option value="AppData\Local\Android\Sdk\platform-tools\adb.exe" />
+        <option value="beginning of main" />
+        <option value="Building APK" />
+        <option value="Built build\app\outputs\" />
+        <option value="C:\Users\brenn\source\repos\flutter\bin\cache\dart-sdk\bin\dart.exe" />
+        <option value="calculateSha" />
+        <option value="Compiling dart to kernel" />
+        <option value="daemon.connected" />
+        <option value="DDS is currently disabled" />
+        <option value="DevFS: Creat" />
+        <option value="DevFS: Creating" />
+        <option value="DevFS: Sync finished" />
+        <option value="dump xmltree" />
+        <option value="E: action" />
+        <option value="E: activity" />
+        <option value="E: application" />
+        <option value="E: category" />
+        <option value="E: intent" />
+        <option value="E: manifest" />
+        <option value="E: meta" />
+        <option value="E: provider" />
+        <option value="E: receiver" />
+        <option value="E: service" />
+        <option value="E: uses" />
+        <option value="E: uses-permission" />
+        <option value="E: uses-sdk" />
+        <option value="emulator-5554          device product:sdk_gphone_x86 model:sdk_gphone_x86 device:generic_x86_arm transport_id:1" />
+        <option value="Finsky:download_service" />
+        <option value="Found plugin" />
+        <option value="GeneratedPluginRegistrant" />
+        <option value="gradle.properties already sets `android.enableR8`" />
+        <option value="Initializing file store" />
+        <option value="Installing APK." />
+        <option value="Installing build\app\outputs" />
+        <option value="is not required, skipping update." />
+        <option value="Launching lib\main.dart" />
+        <option value="Manifest contained wildcard assets" />
+        <option value="ms] complete" />
+        <option value="Observatory URL on device: http:" />
+        <option value="OpenJDK" />
+        <option value="openjdk version" />
+        <option value="package:app.demo.ishop" />
+        <option value="Performing Streamed Install" />
+        <option value="ro.hardware" />
+        <option value="Running Gradle task 'assembleDebug'..." />
+        <option value="Scanning asset files" />
+        <option value="sdk gphone x86 startApp" />
+        <option value="Skipping target: gen_localizations" />
+        <option value="Starting incremental build" />
+        <option value="Starting: Intent { act=android.intent.action.RUN" />
+        <option value="Stopping app 'app.apk'" />
+        <option value="Success" />
+        <option value="Syncing files to device" />
+        <option value="Updating assets" />
+        <option value="Updating files" />
+        <option value="Version 30..0" />
+        <option value="Version 30.0.4-6686687" />
+        <option value="Waiting for observatory port to be available..." />
+        <option value="Waiting for sdk" />
+        <option value="Connected to _flutterView" />
+      </list>
+    </option>
+  </component>
+</application>
