@@ -35,11 +35,14 @@
         <option value="[ +131 ms] executing: [C:\Users\brenn\source\repos\flutter/] git -c log.showSignature=false log -n 1 --pretty=format:%H" />
         <option value="[ +224 ms] Exit code 0 from: git tag --contains HEAD" />
         <option value="[{&quot;event&quot;:&quot;app.progress&quot;" />
+        <option value="[{&quot;event&quot;:&quot;app.started&quot;" />
         <option value="\android\gradlew.bat." />
         <option value="A: android:" />
         <option value="A: package" />
         <option value="A: platform" />
         <option value="A: platformBuildVersionCode=(type 0x10)0x1e" />
+        <option value="Accessing hidden" />
+        <option value="Accessing hidden method" />
         <option value="aching compiled dill" />
         <option value="Android Debug Bridge version" />
         <option value="Android Studio\jre\bin\java" />
@@ -51,13 +54,17 @@
         <option value="Built build\app\outputs\" />
         <option value="C:\Users\brenn\source\repos\flutter\bin\cache\dart-sdk\bin\dart.exe" />
         <option value="calculateSha" />
+        <option value="ChannelGoogleApi" />
+        <option value="ClassLoaderContext is a special shared library." />
         <option value="Compiling dart to kernel" />
+        <option value="Connected to _flutterView" />
         <option value="daemon.connected" />
         <option value="DDS is currently disabled" />
         <option value="DevFS: Creat" />
         <option value="DevFS: Creating" />
         <option value="DevFS: Sync finished" />
         <option value="dump xmltree" />
+        <option value="DynamiteModule" />
         <option value="E: action" />
         <option value="E: activity" />
         <option value="E: application" />
@@ -72,22 +79,27 @@
         <option value="E: uses-permission" />
         <option value="E: uses-sdk" />
         <option value="emulator-5554          device product:sdk_gphone_x86 model:sdk_gphone_x86 device:generic_x86_arm transport_id:1" />
+        <option value="Failed to load providerinstaller" />
         <option value="Finsky:download_service" />
         <option value="Found plugin" />
         <option value="GeneratedPluginRegistrant" />
         <option value="gradle.properties already sets `android.enableR8`" />
         <option value="Initializing file store" />
+        <option value="Installed default security provider" />
         <option value="Installing APK." />
         <option value="Installing build\app\outputs" />
         <option value="is not required, skipping update." />
         <option value="Launching lib\main.dart" />
         <option value="Manifest contained wildcard assets" />
         <option value="ms] complete" />
+        <option value="NativeCrypto" />
+        <option value="Notifying id token listeners about user" />
         <option value="Observatory URL on device: http:" />
         <option value="OpenJDK" />
         <option value="openjdk version" />
         <option value="package:app.demo.ishop" />
         <option value="Performing Streamed Install" />
+        <option value="result&quot;:{&quot;value&quot;:&quot;android&quot;,&quot;type&quot;:&quot;_extensionType&quot;" />
         <option value="ro.hardware" />
         <option value="Running Gradle task 'assembleDebug'..." />
         <option value="Scanning asset files" />
@@ -98,13 +110,14 @@
         <option value="Stopping app 'app.apk'" />
         <option value="Success" />
         <option value="Syncing files to device" />
+        <option value="TetheringManager" />
         <option value="Updating assets" />
         <option value="Updating files" />
         <option value="Version 30..0" />
         <option value="Version 30.0.4-6686687" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="Connected to _flutterView" />
+        <option value=",&quot;type&quot;:&quot;_extensionType&quot;,&quot;method&quot;:" />
       </list>
     </option>
   </component>
