@@ -3,6 +3,7 @@
     <option name="addedPositive">
       <list>
         <option value="&quot;event&quot;:&quot;app.start&quot;," />
+        <option value=",&quot;type&quot;:&quot;_extensionType&quot;,&quot;method&quot;:" />
         <option value=".*Artifact Instance of .* is not required, skipping update." />
         <option value="/AppData/Local/Android/Sdk\platform-tools\adb.exe" />
         <option value="60988" />
@@ -16,6 +17,7 @@
         <option value="[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update." />
         <option value="[        ] Artifact Instance of * is not required, skipping update." />
         <option value="[        ] beta" />
+        <option value="[        ] E/flutter (14129): #13     DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart:50:7)" />
         <option value="[        ] executing: [C:\Users\brenn\source\repos\flutter/] git ls-remote --get-url origin" />
         <option value="[        ] executing: [C:\Users\brenn\source\repos\flutter/] git tag --contains HEAD" />
         <option value="[        ] https://github.com/flutter/flutter.git" />
@@ -63,6 +65,8 @@
         <option value="DevFS: Creat" />
         <option value="DevFS: Creating" />
         <option value="DevFS: Sync finished" />
+        <option value="DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart)" />
+        <option value="DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart:" />
         <option value="dump xmltree" />
         <option value="DynamiteModule" />
         <option value="E: action" />
@@ -117,7 +121,7 @@
         <option value="Version 30.0.4-6686687" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value=",&quot;type&quot;:&quot;_extensionType&quot;,&quot;method&quot;:" />
+        <option value="DeviceLocationService._onStreamedPosition" />
       </list>
     </option>
   </component>
