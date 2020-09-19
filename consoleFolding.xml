@@ -21,7 +21,9 @@
         <option value="[        ] executing: [C:\Users\brenn\source\repos\flutter/] git ls-remote --get-url origin" />
         <option value="[        ] executing: [C:\Users\brenn\source\repos\flutter/] git tag --contains HEAD" />
         <option value="[        ] https://github.com/flutter/flutter.git" />
+        <option value="[        ] I/app.demo.ishop(30426): Waiting for a blocking GC ObjectsAllocated" />
         <option value="[        ] origin/beta" />
+        <option value="[        ] W/FlutterJNI(30426): Tried to send a platform message to Flutter, but FlutterJNI was detached from native C++. Could not send. Channel: flutter.baseflow.com/geolocator_updates. Response ID: 0" />
         <option value="[   +1 ms] &lt;- accept" />
         <option value="[   +1 ms] Synced 6.2MB." />
         <option value="[  +14 ms] executing: [C:\Users\brenn\source\repos\flutter/] git rev-parse --abbrev-ref --symbolic @{u}" />
@@ -36,6 +38,8 @@
         <option value="[  +73 ms] Exit code 0 from: git -c log.showSignature=false log -n 1 --pretty=format:%H" />
         <option value="[ +131 ms] executing: [C:\Users\brenn\source\repos\flutter/] git -c log.showSignature=false log -n 1 --pretty=format:%H" />
         <option value="[ +224 ms] Exit code 0 from: git tag --contains HEAD" />
+        <option value="[ +506 ms] I/app.demo.ishop(30426): Clamp target GC heap from 208MB to 192MB" />
+        <option value="[+1319 ms] I/app.demo.ishop(30426): Clamp target GC heap from 212MB to 192MB" />
         <option value="[{&quot;event&quot;:&quot;app.progress&quot;" />
         <option value="[{&quot;event&quot;:&quot;app.started&quot;" />
         <option value="\android\gradlew.bat." />
@@ -51,12 +55,15 @@
         <option value="android=http://schemas.android.com/apk/res/android" />
         <option value="android\gradlew.bat" />
         <option value="AppData\Local\Android\Sdk\platform-tools\adb.exe" />
+        <option value="Background young concurrent copying GC freed" />
         <option value="beginning of main" />
+        <option value="blocked Alloc on ProfileSaver" />
         <option value="Building APK" />
         <option value="Built build\app\outputs\" />
         <option value="C:\Users\brenn\source\repos\flutter\bin\cache\dart-sdk\bin\dart.exe" />
         <option value="calculateSha" />
         <option value="ChannelGoogleApi" />
+        <option value="Clamp target" />
         <option value="ClassLoaderContext is a special shared library." />
         <option value="Compiling dart to kernel" />
         <option value="Connected to _flutterView" />
@@ -65,6 +72,7 @@
         <option value="DevFS: Creat" />
         <option value="DevFS: Creating" />
         <option value="DevFS: Sync finished" />
+        <option value="DeviceLocationService._onStreamedPosition" />
         <option value="DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart)" />
         <option value="DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart:" />
         <option value="dump xmltree" />
@@ -83,11 +91,13 @@
         <option value="E: uses-permission" />
         <option value="E: uses-sdk" />
         <option value="emulator-5554          device product:sdk_gphone_x86 model:sdk_gphone_x86 device:generic_x86_arm transport_id:1" />
+        <option value="Exit code 0" />
         <option value="Failed to load providerinstaller" />
         <option value="Finsky:download_service" />
         <option value="Found plugin" />
         <option value="GeneratedPluginRegistrant" />
         <option value="gradle.properties already sets `android.enableR8`" />
+        <option value="I/chatty" />
         <option value="Initializing file store" />
         <option value="Installed default security provider" />
         <option value="Installing APK." />
@@ -102,6 +112,7 @@
         <option value="OpenJDK" />
         <option value="openjdk version" />
         <option value="package:app.demo.ishop" />
+        <option value="paused" />
         <option value="Performing Streamed Install" />
         <option value="result&quot;:{&quot;value&quot;:&quot;android&quot;,&quot;type&quot;:&quot;_extensionType&quot;" />
         <option value="ro.hardware" />
@@ -109,19 +120,24 @@
         <option value="Scanning asset files" />
         <option value="sdk gphone x86 startApp" />
         <option value="Skipping target: gen_localizations" />
+        <option value="Starting a blocking GC Alloc" />
         <option value="Starting incremental build" />
         <option value="Starting: Intent { act=android.intent.action.RUN" />
         <option value="Stopping app 'app.apk'" />
         <option value="Success" />
         <option value="Syncing files to device" />
         <option value="TetheringManager" />
+        <option value="Tried to send a platform message to Flutter, but FlutterJNI was detached from native C++. Could not send. Channel: flutter.baseflow.com/geolocator_updates. Response ID: 0" />
         <option value="Updating assets" />
         <option value="Updating files" />
         <option value="Version 30..0" />
         <option value="Version 30.0.4-6686687" />
+        <option value="WaitForGcToComplete" />
+        <option value="Waiting for a blocking" />
+        <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="DeviceLocationService._onStreamedPosition" />
+        <option value="avc: denied" />
       </list>
     </option>
   </component>
