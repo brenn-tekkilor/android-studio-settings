@@ -8,7 +8,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1601321067247">
+      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1601323041120">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="21" />
         <mark key="^" line="39" column="2" />
