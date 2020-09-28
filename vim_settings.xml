@@ -8,17 +8,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1601321054897">
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="39" column="23" />
+      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1601321067247">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="21" />
         <mark key="^" line="39" column="2" />
-        <mark key="." line="39" column="2" />
+        <mark key="." line="39" column="21" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
