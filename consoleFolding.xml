@@ -29,6 +29,7 @@
         <option value="[        ] W/FlutterJNI(30426): Tried to send a platform message to Flutter, but FlutterJNI was detached from native C++. Could not send. Channel: flutter.baseflow.com/geolocator_updates. Response ID: 0" />
         <option value="[   +1 ms] &lt;- accept" />
         <option value="[   +1 ms] Synced 6.2MB." />
+        <option value="[   +1 ms] Synced 6.4MB." />
         <option value="[  +14 ms] executing: [C:\Users\brenn\source\repos\flutter/] git rev-parse --abbrev-ref --symbolic @{u}" />
         <option value="[  +26 ms] 50698" />
         <option value="[  +26 ms] executing: D:/AppData/Local/Android/Sdk\platform-tools\adb.exe devices -l" />
@@ -73,6 +74,7 @@
         <option value="ChannelGoogleApi" />
         <option value="Clamp target" />
         <option value="ClassLoaderContext is a special shared library." />
+        <option value="com.google.android.apps.messaging is aware of coarse but the app-ops permission is specifically denied." />
         <option value="Compiling dart to kernel" />
         <option value="Connected to _flutterView" />
         <option value="Connecting to service protocol" />
@@ -121,6 +123,7 @@
         <option value="Installing APK." />
         <option value="Installing build\app\outputs" />
         <option value="is not required, skipping update." />
+        <option value="Latest build already installed." />
         <option value="Launching lib\main.dart" />
         <option value="List of devices attached" />
         <option value="Manifest contained wildcard assets" />
@@ -159,7 +162,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="[   +1 ms] Synced 6.4MB." />
+        <option value="Tag Manager is not found and thus will not be used" />
       </list>
     </option>
   </component>
