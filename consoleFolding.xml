@@ -11,8 +11,11 @@
         <option value="&lt;- recompile package:ishop/" />
         <option value="&lt;- reset" />
         <option value="[        ] 1.21.0-9.2.pre" />
+        <option value="[        ] 1.22.0-12.1.pre" />
         <option value="[        ] 81a45ec2e5f80fa71d5135f1702ce540558b416d" />
+        <option value="[        ] 8b3760638a189741cd9ca881aa2dd237c1df1be5" />
         <option value="[        ] &lt;- ab150621-0af0-48a7-b461-775c56099c43" />
+        <option value="[        ] &lt;- e0a02218-39c4-410d-bca2-f23b6de7454e" />
         <option value="[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update." />
         <option value="[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update." />
         <option value="[        ] Artifact Instance of * is not required, skipping update." />
@@ -27,6 +30,7 @@
         <option value="[   +1 ms] &lt;- accept" />
         <option value="[   +1 ms] Synced 6.2MB." />
         <option value="[  +14 ms] executing: [C:\Users\brenn\source\repos\flutter/] git rev-parse --abbrev-ref --symbolic @{u}" />
+        <option value="[  +26 ms] 50698" />
         <option value="[  +26 ms] executing: D:/AppData/Local/Android/Sdk\platform-tools\adb.exe devices -l" />
         <option value="[  +29 ms] Exit code 0 from: git ls-remote --get-url origin" />
         <option value="[  +33 ms] Exit code 0 from: git rev-parse --abbrev-ref --symbolic @{u}" />
@@ -36,11 +40,13 @@
         <option value="[  +63 ms] d951ebccf671408a81974b781086c16cf24a752d" />
         <option value="[  +63 ms] List of devices attached" />
         <option value="[  +73 ms] Exit code 0 from: git -c log.showSignature=false log -n 1 --pretty=format:%H" />
+        <option value="[  +90 ms] d08589124f89c32f7b2e5a86fe0b9e24a53cf601" />
         <option value="[ +131 ms] executing: [C:\Users\brenn\source\repos\flutter/] git -c log.showSignature=false log -n 1 --pretty=format:%H" />
         <option value="[ +224 ms] Exit code 0 from: git tag --contains HEAD" />
         <option value="[ +506 ms] I/app.demo.ishop(30426): Clamp target GC heap from 208MB to 192MB" />
         <option value="[+1319 ms] I/app.demo.ishop(30426): Clamp target GC heap from 212MB to 192MB" />
         <option value="[+2026 ms] executing: [C:\Users\brenn\source\repos\flutter/] git rev-parse --abbrev-ref HEAD" />
+        <option value="[{&quot;event&quot;:&quot;app.debugPort&quot;,&quot;params&quot;:{&quot;appId&quot;:" />
         <option value="[{&quot;event&quot;:&quot;app.progress&quot;" />
         <option value="[{&quot;event&quot;:&quot;app.started&quot;" />
         <option value="\android\gradlew.bat." />
@@ -69,14 +75,17 @@
         <option value="ClassLoaderContext is a special shared library." />
         <option value="Compiling dart to kernel" />
         <option value="Connected to _flutterView" />
+        <option value="Connecting to service protocol" />
         <option value="daemon.connected" />
         <option value="DDS is currently disabled" />
+        <option value="Debug service listening on ws://127.0.0.1" />
         <option value="DevFS: Creat" />
         <option value="DevFS: Creating" />
         <option value="DevFS: Sync finished" />
         <option value="DeviceLocationService._onStreamedPosition" />
         <option value="DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart)" />
         <option value="DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart:" />
+        <option value="displayName=T-Mobile carrierName=T-Mobile" />
         <option value="dump xmltree" />
         <option value="DynamiteModule" />
         <option value="E: action" />
@@ -96,16 +105,24 @@
         <option value="Exit code 0" />
         <option value="Failed to load providerinstaller" />
         <option value="Finsky:download_service" />
+        <option value="Forwarded host port" />
         <option value="Found plugin" />
         <option value="GeneratedPluginRegistrant" />
+        <option value="GenericWorkerQueueActi" />
+        <option value="git -c log.showSignature=false log -n 1 --pretty=format:%H" />
+        <option value="git rev-parse --abbrev-ref --symbolic @{u}" />
+        <option value="git rev-parse --abbrev-ref HEAD" />
+        <option value="git tag --points-at HEAD" />
         <option value="gradle.properties already sets `android.enableR8`" />
         <option value="I/chatty" />
+        <option value="I/OpenGLRenderer" />
         <option value="Initializing file store" />
         <option value="Installed default security provider" />
         <option value="Installing APK." />
         <option value="Installing build\app\outputs" />
         <option value="is not required, skipping update." />
         <option value="Launching lib\main.dart" />
+        <option value="List of devices attached" />
         <option value="Manifest contained wildcard assets" />
         <option value="ms] complete" />
         <option value="NativeCrypto" />
@@ -120,6 +137,7 @@
         <option value="ro.hardware" />
         <option value="Running Gradle task 'assembleDebug'..." />
         <option value="Scanning asset files" />
+        <option value="SCH: Scheduling job Id:" />
         <option value="sdk gphone x86 startApp" />
         <option value="Skipping target: gen_localizations" />
         <option value="startHotwordDetection failed" />
@@ -130,6 +148,7 @@
         <option value="Success" />
         <option value="Syncing files to device" />
         <option value="TetheringManager" />
+        <option value="The application may be doing too much work on its main thread." />
         <option value="Tried to send a platform message to Flutter, but FlutterJNI was detached from native C++. Could not send. Channel: flutter.baseflow.com/geolocator_updates. Response ID: 0" />
         <option value="Updating assets" />
         <option value="Updating files" />
@@ -140,7 +159,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="GenericWorkerQueueActi" />
+        <option value="[   +1 ms] Synced 6.4MB." />
       </list>
     </option>
   </component>
