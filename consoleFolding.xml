@@ -122,6 +122,7 @@
         <option value="Scanning asset files" />
         <option value="sdk gphone x86 startApp" />
         <option value="Skipping target: gen_localizations" />
+        <option value="startHotwordDetection failed" />
         <option value="Starting a blocking GC Alloc" />
         <option value="Starting incremental build" />
         <option value="Starting: Intent { act=android.intent.action.RUN" />
@@ -139,7 +140,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="startHotwordDetection failed" />
+        <option value="GenericWorkerQueueActi" />
       </list>
     </option>
   </component>
