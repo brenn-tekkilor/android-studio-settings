@@ -66,11 +66,11 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="48" column="1" />
       </file>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/login_service.dart" timestamp="1603432136147">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="^" line="25" column="8" />
-        <mark key="." line="25" column="7" />
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/login_service.dart" timestamp="1603432435142">
+        <mark key="[" line="70" column="20" />
+        <mark key="]" line="70" column="20" />
+        <mark key="^" line="70" column="20" />
+        <mark key="." line="70" column="19" />
       </file>
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/main.dart" timestamp="1603415710357">
         <mark key="[" line="29" column="45" />
@@ -153,10 +153,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
