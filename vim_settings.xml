@@ -2,34 +2,169 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>module</entry>
+      </history-search>
+      <history-cmd />
+    </history>
+  </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1601323041120">
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="39" column="21" />
-        <mark key="^" line="39" column="2" />
-        <mark key="." line="39" column="21" />
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_model.dart" timestamp="1603417532856">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/places/places_model.dart" timestamp="1603417136100">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_view.dart" timestamp="1603417457963">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1603412436017">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="48" column="2" />
+        <mark key="^" line="48" column="2" />
+        <mark key="." line="48" column="1" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/main.dart" timestamp="1603415710357">
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="31" column="68" />
+        <mark key="^" line="31" column="68" />
+        <mark key="." line="31" column="67" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/third_party_services_module.dart" timestamp="1603416639371">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/app/locator.dart" timestamp="1603413559325">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/home/home_model.dart" timestamp="1603417182504">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.dart" timestamp="1603412742924">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="56" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/map/map_model.dart" timestamp="1603417149363">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable-1.0.5/lib/src/injectable_annotations.dart" timestamp="1603415337536">
+        <mark key="'" line="172" column="32" />
+        <mark key="o" line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/places_service.dart" timestamp="1603416148443">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="43" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/source/repos/brenn/ishop/lib/app/locator.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/source/repos/brenn/ishop/lib/services/third_party_services_module.dart" />
+      <jump line="78" column="0" filename="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable-1.0.5/lib/src/injectable_annotations.dart" />
+      <jump line="182" column="0" filename="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable-1.0.5/lib/src/injectable_annotations.dart" />
+      <jump line="181" column="6" filename="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable-1.0.5/lib/src/injectable_annotations.dart" />
+      <jump line="172" column="32" filename="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable-1.0.5/lib/src/injectable_annotations.dart" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzdGF0aWMgZmluYWwgR2xvYmFsS2V5PEZvcm1TdGF0ZT4gZm9ybUtleSA9IEdsb2JhbEtleTxGb3JtU3RhdGU+KCk7CiAgc3RhdGljIGZpbmFsIEdsb2JhbEtleTxGb3JtRmllbGRTdGF0ZTxTdHJpbmc+PiBlbWFpbEtleSA9CiAgICAgIEdsb2JhbEtleTxGb3JtRmllbGRTdGF0ZTxTdHJpbmc+PigpOwogIHN0YXRpYyBmaW5hbCBHbG9iYWxLZXk8Rm9ybUZpZWxkU3RhdGU8U3RyaW5nPj4gcGFzc3dvcmRLZXkgPQogICAgICBHbG9iYWxLZXk8Rm9ybUZpZWxkU3RhdGU8U3RyaW5nPj4oKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmlzaG9wL3ZpZXdzL21hcC9tYXBfbW9kZWwuZGFydCc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBNYXBNb2RlbCBnZXQgbWFwTW9kZWwgPT4gTWFwTW9kZWwuaW5pdGlhbCgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzdGF0aWMgRnV0dXJlPFBsYWNlc1NlcnZpY2U+IGdldCBpbnN0YW5jZSgpIGFzeW5jIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBOYXZpZ2F0aW9uU2VydmljZSBnZXQgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBASW5qZWN0YWJsZShhczogTmF2aWdhdGlvblNlcnZpY2UpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBAcHJvZAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0ICdsb2NhdG9yLmljb25maWcuZGFydCc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text>module</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>module</last-search>
+      <last-offset />
+      <last-pattern>module</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
