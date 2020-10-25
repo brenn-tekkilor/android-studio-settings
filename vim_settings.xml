@@ -79,9 +79,9 @@
       </file>
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/main.dart" timestamp="1603584035249">
         <mark key="[" line="3" column="29" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stacked_services-0.5.4+4/lib/src/navigation_service.dart" timestamp="1603595739313" />
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/third_party_services_module.dart" timestamp="1603416639371">
@@ -91,12 +91,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/app/locator.dart" timestamp="1603413559325">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/app/locator.config.dart" timestamp="1603628916606" />
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/service_locator.dart" timestamp="1603615759349">
         <mark key="[" line="20" column="55" />
         <mark key="]" line="21" column="38" />
@@ -116,25 +111,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.dart" timestamp="1603412742924">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="56" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/map/map_model.dart" timestamp="1603615263182">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="16" />
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/injectable-1.0.5/lib/src/injectable_annotations.dart" timestamp="1603415337536">
-        <mark key="'" line="172" column="32" />
-        <mark key="o" line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/places_service.dart" timestamp="1603416148443">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
       </file>
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/app/router.dart" timestamp="1603419783041">
         <mark key="[" line="11" column="0" />
@@ -153,6 +134,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="76" />
+      </file>
+      <file name="/fragment.java" timestamp="1603629128048">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
