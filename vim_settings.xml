@@ -7,7 +7,11 @@
       <history-search>
         <entry>module</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>wq!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -41,12 +45,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_model.dart" timestamp="1603420086373">
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_model.dart" timestamp="1603583450837">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="21" />
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="36" />
         <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="20" />
+        <mark key="." line="33" column="36" />
       </file>
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/places/places_model.dart" timestamp="1603420393410">
         <mark key="[" line="9" column="49" />
@@ -54,29 +58,30 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_view.dart" timestamp="1603430223377">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="24" column="44" />
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_view.dart" timestamp="1603583056326">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1603412436017">
-        <mark key="[" line="55" column="27" />
+      <file name="$USER_HOME$/source/repos/brenn/ishop/pubspec.yaml" timestamp="1603583813746">
+        <mark key="[" line="56" column="30" />
         <mark key="]" line="48" column="2" />
         <mark key="^" line="48" column="2" />
         <mark key="." line="48" column="1" />
       </file>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/login_service.dart" timestamp="1603507377099">
-        <mark key="[" line="70" column="63" />
-        <mark key="]" line="70" column="63" />
-        <mark key="^" line="70" column="69" />
-        <mark key="." line="70" column="63" />
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/login_service.dart" timestamp="1603583417894">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="60" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/main.dart" timestamp="1603415710357">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="31" column="68" />
-        <mark key="^" line="31" column="68" />
-        <mark key="." line="31" column="67" />
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/main.dart" timestamp="1603584035249">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/brenn/ishop/lib/services/third_party_services_module.dart" timestamp="1603416639371">
         <mark key="'" line="10" column="0" />
@@ -96,6 +101,12 @@
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
         <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/source/repos/brenn/ishop/lib/core/util/scribe.dart" timestamp="1603582441560">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.dart" timestamp="1603412742924">
         <mark key="[" line="0" column="0" />
@@ -148,48 +159,53 @@
       <jump line="97" column="4" filename="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_view.dart" />
       <jump line="88" column="20" filename="$USER_HOME$/source/repos/brenn/ishop/lib/views/login/login_view.dart" />
       <jump line="36" column="42" filename="$USER_HOME$/source/repos/brenn/ishop/lib/services/login_service.dart" />
+      <jump line="70" column="26" filename="$USER_HOME$/source/repos/brenn/ishop/lib/services/login_service.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/repos/brenn/ishop/lib/services/login_service.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE1hdGVyaWFsUm91dGUocGFnZTogSG9tZVZpZXcpLAo=</text>
+      <register name="0" type="4">
+        <text>Scribe.isNotNullOrEmpty(_emailKey.currentState.value)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">VmFsdWVOb3RpZmllcjxib29sPiBnZXQgaXNBdXRob3JpemVkTm90aWZpZXIgPT4gX2lzQXV0aG9yaXplZE5vdGlmaWVyOwogIGJvb2wgZ2V0IGlzQXV0aG9yaXplZCA9PiBfaXNBdXRob3JpemVkTm90aWZpZXIudmFsdWU7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBfZXJyb3JEZXRhaWxzID0gRmx1dHRlckVycm9yRGV0YWlscygpIHsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBib29sIF92YWxpZGF0ZUZvcm1GaWVsZHMoU3RyaW5nIGVtYWlsLCBTdHJpbmcgcGFzc3dvcmQpIHsKICAgIGlmIChlbWFpbCA9PSBudWxsIHx8IGVtYWlsLmlzRW1wdHkpIHsKICAgICAgX2Zvcm1FcnJNc2cgKz0gJ0VtYWlsIGlzIHJlcXVpcmVkIHRvIHNpZ24gaW4uXG4nOwogICAgfQogICAgaWYgKHBhc3N3b3JkID09IG51bGwgfHwgcGFzc3dvcmQuaXNFbXB0eSkgewogICAgICBfZm9ybUVyck1zZyArPSAnUGFzc3dvcmQgaXMgcmVxdWlyZWQgdG8gc2lnbiBpbi5cbic7CiAgICB9CiAgICByZXR1cm4gKF9mb3JtRXJyTXNnLmlzRW1wdHkpOwogIH0KIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBmaW5hbCBGbHV0dGVyRXJyb3JEZXRhaWxzX2Vycm9yRGV0YWlsczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib29sIF92YWxpZGF0ZUZvcm1GaWVsZHMoU3RyaW5nIGVtYWlsLCBTdHJpbmcgcGFzc3dvcmQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyNlbmRyZWdpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vI2VuZHJlZ2lvbgo=</text>
+        <text encoding="base64">ICAgICAgKHBhc3N3b3JkID09IG51bGwgfHwgcGFzc3dvcmQuaXNFbXB0eSkgPyB0cnVlIDogZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaEVycm9yKChlKSA9PiBwcmludChlKSk7Cg==</text>
+        <text encoding="base64">ICBib29sIF9pc1ZhbGlkRm9ybVBhc3N3b3JkKFN0cmluZyBwYXNzd29yZCkgPT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKCh2YWx1ZSkgYXN5bmMgPT4gYXdhaXQgdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgKGVtYWlsID09IG51bGwgfHwgZW1haWwuaXNFbXB0eSkgPyB0cnVlIDogZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoX2Zvcm1FcnJNc2cuaXNFbXB0eSkgewo=</text>
+        <text encoding="base64">ICBib29sIF9pc0VtYWlsUHJvdmlkZWQoU3RyaW5nIGVtYWlsLCBTdHJpbmcgcGFzc3dvcmQpID0+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq!</text>
       </register>
     </registers>
   </component>
