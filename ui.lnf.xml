@@ -8,6 +8,7 @@
     <option name="MAX_LOOKUP_WIDTH2" value="751" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
