@@ -150,6 +150,7 @@
         <option value="Stopping app 'app.apk'" />
         <option value="Success" />
         <option value="Syncing files to device" />
+        <option value="Tag Manager is not found and thus will not be used" />
         <option value="TetheringManager" />
         <option value="The application may be doing too much work on its main thread." />
         <option value="Tried to send a platform message to Flutter, but FlutterJNI was detached from native C++. Could not send. Channel: flutter.baseflow.com/geolocator_updates. Response ID: 0" />
@@ -162,7 +163,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="Tag Manager is not found and thus will not be used" />
+        <option value="FINE: Pub" />
       </list>
     </option>
   </component>
