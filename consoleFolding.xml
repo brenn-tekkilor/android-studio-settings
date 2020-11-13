@@ -106,6 +106,7 @@
         <option value="emulator-5554          device product:sdk_gphone_x86 model:sdk_gphone_x86 device:generic_x86_arm transport_id:1" />
         <option value="Exit code 0" />
         <option value="Failed to load providerinstaller" />
+        <option value="FINE: Pub" />
         <option value="Finsky:download_service" />
         <option value="Forwarded host port" />
         <option value="Found plugin" />
@@ -163,7 +164,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="FINE: Pub" />
+        <option value="SLVR: fact: ishop depends on" />
       </list>
     </option>
   </component>
