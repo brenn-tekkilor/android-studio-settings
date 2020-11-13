@@ -10,6 +10,8 @@
         <option value="&lt;- compile package" />
         <option value="&lt;- recompile package:ishop/" />
         <option value="&lt;- reset" />
+        <option value="[        ]     | build_daemon:file:///C:/Users/brenn/AppData/Local/Pub/Cache/hosted/pub.dartlang.org" />
+        <option value="[        ]     | build_resolvers:file:///C:/Users/brenn/AppData/Local/Pub/Cache" />
         <option value="[        ] 1.21.0-9.2.pre" />
         <option value="[        ] 1.22.0-12.1.pre" />
         <option value="[        ] 81a45ec2e5f80fa71d5135f1702ce540558b416d" />
@@ -149,6 +151,7 @@
         <option value="Scanning asset files" />
         <option value="SCH: Scheduling job Id:" />
         <option value="sdk gphone x86 startApp" />
+        <option value="See https://dart.dev/tools/pub/glossary" />
         <option value="Skipping target: gen_localizations" />
         <option value="SLVR:" />
         <option value="SLVR: fact: ishop depends on" />
@@ -172,7 +175,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="See https://dart.dev/tools/pub/glossary" />
+        <option value="file:///C:/Users/brenn/AppData/Local/Pub/Cache/hosted/pub.dartlang.org" />
       </list>
     </option>
   </component>
