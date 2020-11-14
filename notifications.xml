@@ -1,6 +1,17 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Accepted language levels" />
+    <notification groupId="Android Gradle Upgrade Notification" />
+    <notification groupId="Automatic indent detection" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Code style settings migration" />
+    <notification groupId="Configure Kotlin in Project" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="Jetpack Compose Project Notification" />
+    <notification groupId="Pipfile Watcher" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" />
+    <notification groupId="Plugins updates" shouldLog="false" />
+    <notification groupId="Python Stub Packages Advertiser" />
   </component>
 </application>
