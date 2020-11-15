@@ -13,5 +13,6 @@
     <notification groupId="Plugins Suggestion" />
     <notification groupId="Plugins updates" shouldLog="false" />
     <notification groupId="Python Stub Packages Advertiser" />
+    <notification groupId="System Messages" displayType="NONE" />
   </component>
 </application>
