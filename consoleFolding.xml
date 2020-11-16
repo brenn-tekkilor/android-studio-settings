@@ -78,6 +78,7 @@
         <option value="android\gradlew.bat" />
         <option value="AppData\Local\Android\Sdk\platform-tools\adb.exe" />
         <option value="avc: denied" />
+        <option value="Background execution not allowed:" />
         <option value="Background young concurrent copying GC freed" />
         <option value="beginning of main" />
         <option value="blocked Alloc on ProfileSaver" />
@@ -214,7 +215,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="Background execution not allowed:" />
+        <option value="Flushing usage stats to disk" />
       </list>
     </option>
   </component>
