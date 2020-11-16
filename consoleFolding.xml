@@ -3,13 +3,22 @@
     <option name="addedPositive">
       <list>
         <option value="&quot;event&quot;:&quot;app.start&quot;," />
+        <option value="&quot;flutter assemble&quot;" />
+        <option value="&quot;result&quot;:{&quot;code&quot;:0" />
         <option value=",&quot;type&quot;:&quot;_extensionType&quot;,&quot;method&quot;:" />
         <option value=".*Artifact Instance of .* is not required, skipping update." />
         <option value="/AppData/Local/Android/Sdk\platform-tools\adb.exe" />
+        <option value="58410" />
         <option value="60988" />
+        <option value="830c7e395d6b31ae5cb5a695c821403b5ecea897" />
         <option value="&lt;- compile package" />
         <option value="&lt;- recompile package:ishop/" />
         <option value="&lt;- reset" />
+        <option value="&gt; Configure project :app" />
+        <option value="&gt; Task :" />
+        <option value="&gt; Task :app:" />
+        <option value="[        ]" />
+        <option value="[        ]     |" />
         <option value="[        ]     | build_daemon:file:///C:/Users/brenn/AppData/Local/Pub/Cache/hosted/pub.dartlang.org" />
         <option value="[        ]     | build_resolvers:file:///C:/Users/brenn/AppData/Local/Pub/Cache" />
         <option value="[        ] 1.21.0-9.2.pre" />
@@ -45,8 +54,10 @@
         <option value="[  +73 ms] Exit code 0 from: git -c log.showSignature=false log -n 1 --pretty=format:%H" />
         <option value="[  +90 ms] d08589124f89c32f7b2e5a86fe0b9e24a53cf601" />
         <option value="[ +131 ms] executing: [C:\Users\brenn\source\repos\flutter/] git -c log.showSignature=false log -n 1 --pretty=format:%H" />
+        <option value="[ +145 ms]HostConnection::get() New Host Connection established" />
         <option value="[ +224 ms] Exit code 0 from: git tag --contains HEAD" />
         <option value="[ +506 ms] I/app.demo.ishop(30426): Clamp target GC heap from 208MB to 192MB" />
+        <option value="[ +invalidated build due to missing files:" />
         <option value="[+1319 ms] I/app.demo.ishop(30426): Clamp target GC heap from 212MB to 192MB" />
         <option value="[+2026 ms] executing: [C:\Users\brenn\source\repos\flutter/] git rev-parse --abbrev-ref HEAD" />
         <option value="[{&quot;event&quot;:&quot;app.debugPort&quot;,&quot;params&quot;:{&quot;appId&quot;:" />
@@ -60,6 +71,7 @@
         <option value="Accessing hidden" />
         <option value="Accessing hidden method" />
         <option value="aching compiled dill" />
+        <option value="allocator 3.x is not supported" />
         <option value="Android Debug Bridge version" />
         <option value="Android Studio\jre\bin\java" />
         <option value="android=http://schemas.android.com/apk/res/android" />
@@ -75,6 +87,8 @@
         <option value="C:\Users\brenn\source\repos\flutter\bin\cache\dart-sdk\bin\pub.bat --verbose get --no-precompile" />
         <option value="calculateSha" />
         <option value="ChannelGoogleApi" />
+        <option value="characters to text file" />
+        <option value="characters to text file .\.packages." />
         <option value="characters to text file .\pubspec.lock." />
         <option value="Clamp target" />
         <option value="ClassLoaderContext is a special shared library." />
@@ -82,11 +96,17 @@
         <option value="Compiling dart to kernel" />
         <option value="Connected to _flutterView" />
         <option value="Connecting to service protocol" />
+        <option value="D/EGL_emulation" />
+        <option value="D/HostConnection" />
         <option value="daemon.connected" />
         <option value="DDS is currently disabled" />
         <option value="Debug service listening on ws://127.0.0.1" />
+        <option value="debug_android_application: Complete" />
+        <option value="debug_android_application: Starting due to {InvalidatedReason.inputChanged, InvalidatedReason.inputMissing}" />
+        <option value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
         <option value="DevFS: Creat" />
         <option value="DevFS: Creating" />
+        <option value="DevFS: Deleting filesystem on the dev" />
         <option value="DevFS: Sync finished" />
         <option value="DeviceLocationService._onStreamedPosition" />
         <option value="DeviceLocationService.currentLocation= (package:ishop/providers/device_location_service.dart)" />
@@ -107,9 +127,11 @@
         <option value="E: uses" />
         <option value="E: uses-permission" />
         <option value="E: uses-sdk" />
+        <option value="emulator-5554          device product:" />
         <option value="emulator-5554          device product:sdk_gphone_x86 model:sdk_gphone_x86 device:generic_x86_arm transport_id:1" />
         <option value="Exit code 0" />
         <option value="Failed to load providerinstaller" />
+        <option value="file:///C:/Users/brenn/AppData/Local/Pub/Cache/hosted/pub.dartlang.org" />
         <option value="FINE: Contents:" />
         <option value="FINE: Pub" />
         <option value="FINE: Resolving dependencies finished" />
@@ -124,26 +146,39 @@
         <option value="git rev-parse --abbrev-ref HEAD" />
         <option value="git tag --points-at HEAD" />
         <option value="gradle.properties already sets `android.enableR8`" />
+        <option value="I/app.demo.ishop" />
         <option value="I/chatty" />
+        <option value="I/Google Maps Android API" />
         <option value="I/OpenGLRenderer" />
         <option value="Initializing file store" />
         <option value="Installed default security provider" />
+        <option value="Installer: package" />
         <option value="Installing APK." />
         <option value="Installing build\app\outputs" />
+        <option value="invalidated build due to missing files:" />
         <option value="is not required, skipping update." />
+        <option value="kernel_snapshot: Complete" />
+        <option value="kernel_snapshot: Starting due to {InvalidatedReason.inputChanged}" />
         <option value="Latest build already installed." />
         <option value="Launching lib\main.dart" />
         <option value="List of devices attached" />
+        <option value="Making Creator dynamically" />
         <option value="Manifest contained wildcard assets" />
         <option value="ms] complete" />
+        <option value="MSG : Got dependencies!" />
+        <option value="MSG : Resolving dependencies..." />
         <option value="NativeCrypto" />
+        <option value="New Host Connection established" />
         <option value="Notifying id token listeners about user" />
         <option value="Observatory URL on device: http:" />
         <option value="OpenJDK" />
         <option value="openjdk version" />
         <option value="package:app.demo.ishop" />
+        <option value="ParticipantRefresh: Number of participants refreshed:" />
         <option value="paused" />
         <option value="Performing Streamed Install" />
+        <option value="Persisting file store" />
+        <option value="Reassembling application" />
         <option value="result&quot;:{&quot;value&quot;:&quot;android&quot;,&quot;type&quot;:&quot;_extensionType&quot;" />
         <option value="ro.hardware" />
         <option value="Running &quot;flutter pub get&quot;" />
@@ -161,13 +196,17 @@
         <option value="Starting: Intent { act=android.intent.action.RUN" />
         <option value="Stopping app 'app.apk'" />
         <option value="Success" />
+        <option value="Synced 0.0MB." />
         <option value="Syncing files to device" />
         <option value="Tag Manager is not found and thus will not be used" />
+        <option value="Task :app:packLibsflutterBuildDebug UP-TO-DATE" />
+        <option value="Task :geolocator:compileDebugAidl NO-SOURCE" />
         <option value="TetheringManager" />
         <option value="The application may be doing too much work on its main thread." />
         <option value="Tried to send a platform message to Flutter, but FlutterJNI was detached from native C++. Could not send. Channel: flutter.baseflow.com/geolocator_updates. Response ID: 0" />
         <option value="Updating assets" />
         <option value="Updating files" />
+        <option value="Version 30." />
         <option value="Version 30..0" />
         <option value="Version 30.0.4-6686687" />
         <option value="WaitForGcToComplete" />
@@ -175,7 +214,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="file:///C:/Users/brenn/AppData/Local/Pub/Cache/hosted/pub.dartlang.org" />
+        <option value="Background execution not allowed:" />
       </list>
     </option>
   </component>
