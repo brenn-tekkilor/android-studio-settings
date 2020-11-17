@@ -38,6 +38,7 @@
         <option value="[        ] I/app.demo.ishop(30426): Waiting for a blocking GC ObjectsAllocated" />
         <option value="[        ] origin/beta" />
         <option value="[        ] W/FlutterJNI(30426): Tried to send a platform message to Flutter, but FlutterJNI was detached from native C++. Could not send. Channel: flutter.baseflow.com/geolocator_updates. Response ID: 0" />
+        <option value="[   +1 ms]     |" />
         <option value="[   +1 ms] &lt;- accept" />
         <option value="[   +1 ms] Synced 6.2MB." />
         <option value="[   +1 ms] Synced 6.4MB." />
@@ -181,6 +182,7 @@
         <option value="Performing Streamed Install" />
         <option value="Persisting file store" />
         <option value="Reassembling application" />
+        <option value="receivers for android.intent.action.PROVIDER_CHANGED" />
         <option value="result&quot;:{&quot;value&quot;:&quot;android&quot;,&quot;type&quot;:&quot;_extensionType&quot;" />
         <option value="ro.hardware" />
         <option value="Running &quot;flutter pub get&quot;" />
@@ -216,7 +218,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="receivers for android.intent.action.PROVIDER_CHANGED" />
+        <option value="CarrierServices" />
       </list>
     </option>
   </component>
