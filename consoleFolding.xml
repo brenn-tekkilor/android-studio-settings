@@ -88,6 +88,7 @@
         <option value="C:\Users\brenn\source\repos\flutter\bin\cache\dart-sdk\bin\dart.exe" />
         <option value="C:\Users\brenn\source\repos\flutter\bin\cache\dart-sdk\bin\pub.bat --verbose get --no-precompile" />
         <option value="calculateSha" />
+        <option value="CarrierServices" />
         <option value="ChannelGoogleApi" />
         <option value="characters to text file" />
         <option value="characters to text file .\.packages." />
@@ -218,7 +219,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="CarrierServices" />
+        <option value="ShortcutsDataManager.onImportFinished()" />
       </list>
     </option>
   </component>
