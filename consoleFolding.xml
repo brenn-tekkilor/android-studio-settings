@@ -161,6 +161,7 @@
         <option value="Installing build\app\outputs" />
         <option value="invalidated build due to missing files:" />
         <option value="is not required, skipping update." />
+        <option value="It will be removed in version 5.0 of the Android Gradle plugin." />
         <option value="kernel_snapshot: Complete" />
         <option value="kernel_snapshot: Starting due to {InvalidatedReason.inputChanged}" />
         <option value="Latest build already installed." />
@@ -192,11 +193,13 @@
         <option value="SCH: Scheduling job Id:" />
         <option value="sdk gphone x86 startApp" />
         <option value="See https://dart.dev/tools/pub/glossary" />
+        <option value="ShortcutsDataManager.onImportFinished()" />
         <option value="Skipping target: gen_localizations" />
         <option value="SLVR:" />
         <option value="SLVR: fact: ishop depends on" />
         <option value="startHotwordDetection failed" />
         <option value="Starting a blocking GC Alloc" />
+        <option value="Starting a Gradle Daemon (subsequent builds will be faster)" />
         <option value="Starting incremental build" />
         <option value="Starting: Intent { act=android.intent.action.RUN" />
         <option value="Stopping app 'app.apk'" />
@@ -219,7 +222,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="ShortcutsDataManager.onImportFinished()" />
+        <option value="kernel_snapshot: Starting due to {InvalidatedReason.inputMissing, InvalidatedReason.inputChanged}" />
       </list>
     </option>
   </component>
