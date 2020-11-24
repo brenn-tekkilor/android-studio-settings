@@ -175,6 +175,7 @@
         <option value="MSG : Resolving dependencies..." />
         <option value="NativeCrypto" />
         <option value="New Host Connection established" />
+        <option value="Note: C:\Users\brenn\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_core-0.5.2\android\src\main\java\io\flutter\plugins\firebase\core\FlutterFirebaseCorePlugin.java uses or overrides a deprecated API." />
         <option value="Notifying id token listeners about user" />
         <option value="Observatory URL on device: http:" />
         <option value="OpenJDK" />
@@ -182,6 +183,7 @@
         <option value="package:app.demo.ishop" />
         <option value="ParticipantRefresh: Number of participants refreshed:" />
         <option value="paused" />
+        <option value="PendingMessagesProcessor: process from ProcessPendingMessagesAction due to scheduled processing with queues:" />
         <option value="Performing Streamed Install" />
         <option value="Persisting file store" />
         <option value="Reassembling application" />
@@ -198,6 +200,8 @@
         <option value="Skipping target: gen_localizations" />
         <option value="SLVR:" />
         <option value="SLVR: fact: ishop depends on" />
+        <option value="so far, now at startProcess: done updating pids map" />
+        <option value="Some input files use or override a deprecated API." />
         <option value="startHotwordDetection failed" />
         <option value="Starting a blocking GC Alloc" />
         <option value="Starting a Gradle Daemon (subsequent builds will be faster)" />
@@ -224,7 +228,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="PendingMessagesProcessor: process from ProcessPendingMessagesAction due to scheduled processing with queues:" />
+        <option value="Exception thrown while unbinding" />
       </list>
     </option>
   </component>
