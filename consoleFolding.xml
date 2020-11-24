@@ -164,6 +164,7 @@
         <option value="It will be removed in version 5.0 of the Android Gradle plugin." />
         <option value="kernel_snapshot: Complete" />
         <option value="kernel_snapshot: Starting due to {InvalidatedReason.inputChanged}" />
+        <option value="kernel_snapshot: Starting due to {InvalidatedReason.inputMissing, InvalidatedReason.inputChanged}" />
         <option value="Latest build already installed." />
         <option value="Launching lib\main.dart" />
         <option value="List of devices attached" />
@@ -200,6 +201,7 @@
         <option value="startHotwordDetection failed" />
         <option value="Starting a blocking GC Alloc" />
         <option value="Starting a Gradle Daemon (subsequent builds will be faster)" />
+        <option value="Starting a Gradle Daemon, 1 stopped Daemon could not be reused, use --status for details" />
         <option value="Starting incremental build" />
         <option value="Starting: Intent { act=android.intent.action.RUN" />
         <option value="Stopping app 'app.apk'" />
@@ -222,7 +224,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="kernel_snapshot: Starting due to {InvalidatedReason.inputMissing, InvalidatedReason.inputChanged}" />
+        <option value="PendingMessagesProcessor: process from ProcessPendingMessagesAction due to scheduled processing with queues:" />
       </list>
     </option>
   </component>
