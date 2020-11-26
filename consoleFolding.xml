@@ -132,6 +132,7 @@
         <option value="E: uses-sdk" />
         <option value="emulator-5554          device product:" />
         <option value="emulator-5554          device product:sdk_gphone_x86 model:sdk_gphone_x86 device:generic_x86_arm transport_id:1" />
+        <option value="Exception thrown while unbinding" />
         <option value="Exit code 0" />
         <option value="Failed to load providerinstaller" />
         <option value="file:///C:/Users/brenn/AppData/Local/Pub/Cache/hosted/pub.dartlang.org" />
@@ -150,6 +151,7 @@
         <option value="git rev-parse --abbrev-ref HEAD" />
         <option value="git tag --points-at HEAD" />
         <option value="gradle.properties already sets `android.enableR8`" />
+        <option value="https://pub.dartlang.org/api/packages/typed_data" />
         <option value="I/app.demo.ishop" />
         <option value="I/chatty" />
         <option value="I/Google Maps Android API" />
@@ -228,7 +230,7 @@
         <option value="Waiting for a blocking GC Alloc" />
         <option value="Waiting for observatory port to be available..." />
         <option value="Waiting for sdk" />
-        <option value="Exception thrown while unbinding" />
+        <option value="https://pub.dartlang.org/api/packages/collection" />
       </list>
     </option>
   </component>
