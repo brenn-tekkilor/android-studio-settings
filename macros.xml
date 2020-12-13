@@ -217,5 +217,12 @@
       <shortuct text="ENTER" />
       <typing text-keycode="85:0">u</typing>
     </macro>
+    <macro name="&lt;noname&gt;">
+      <typing text-keycode="47:0;54:1;67:0;76:0;65:0;83:0;83:0;92:0;83:0">/^class\s</typing>
+      <shortuct text="ENTER" />
+      <typing text-keycode="74:0;75:0;75:0">jkk</typing>
+      <shortuct text="alt E" />
+      <typing text-keycode="83:0">s</typing>
+    </macro>
   </component>
 </application>
