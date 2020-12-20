@@ -1,5 +1,6 @@
 <templateSet group="Flutter">
-  <template name="orientationBldr" value="OrientationBuilder(&#10;  builder: (BuildContext context, Orientation orientation) {&#10;return GridView.count(&#10;// Create a grid with 2 columns in portrait mode, or 3 columns in&#10;// landscape mode.&#10;crossAxisCount: orientation == Orientation.portrait ? 2 : 3,&#10;);&#10;},&#10;);" description="New OrientationBuilder" toReformat="true" toShortenFQNames="true">
+  <template name="nosm" value="@override &#10; dynamic noSuchMethod(Invocation invocation) { &#10;$body$&#10;}&#10;" description="No Such Method" toReformat="true" toShortenFQNames="true">
+    <variable name="body" expression="$body$" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>
