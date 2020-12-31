@@ -5,6 +5,12 @@
     <variable name="body" expression="$body$" defaultValue="Container();" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="animatedBldr" value="AnimatedBuilder(&#10;  animation: $animationController$,&#10;  child: $childWidget$,&#10;  builder: (BuildContext context, Widget child) {&#10;    return $buildWidget$;&#10;  },&#10;);" description="New AnimatedBuilder" toReformat="true" toShortenFQNames="true">
+    <variable name="animationController" expression="&quot;animationController&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="childWidget" expression="&quot;childWidget&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="buildWidget" expression="&quot;buildWidget&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="listviewBldr" value="ListView.builder(itemCount: $COUNT$,itemBuilder: (BuildContext context, int index) {return $WIDGET$;}, )," description="Create ListView.builder" toReformat="true" toShortenFQNames="true">
     <variable name="COUNT" expression="&quot;count&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="WIDGET" expression="&quot;widget&quot;" defaultValue="" alwaysStopAt="true" />
@@ -12,6 +18,9 @@
   </template>
   <template name="mateApp" value="import 'package:flutter/material.dart';&#10; &#10;void main() =&gt; runApp($className$());&#10; &#10;class $className$ extends StatelessWidget {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return MaterialApp(&#10;      title: 'Material App',&#10;      home: Scaffold(&#10;        appBar: AppBar(&#10;          title: Text('Material App Bar'),&#10;        ),&#10;        body: Center(&#10;          child: Container(&#10;            child: Text('Hello World'),&#10;          ),&#10;        ),&#10;      ),&#10;    );&#10;  }&#10;}" description="Create a New Material App" toReformat="true" toShortenFQNames="true">
     <variable name="className" expression="&quot;MyApp&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="initS" value="@override&#10;void initState() { &#10;  super.initState();&#10;  // Add code after super&#10;}" description="Add initState Override" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
   <template name="nosm" value="@override &#10; dynamic noSuchMethod(Invocation invocation) { &#10;$body$&#10;}&#10;" description="No Such Method" toReformat="true" toShortenFQNames="true">
