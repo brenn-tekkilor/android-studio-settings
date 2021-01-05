@@ -1,16 +1,14 @@
 <templateSet group="Flutter">
-  <template name="container" value="Container(&#10;  child: $Widget$(),&#10;)," description="Create Container Widget" toReformat="true" toShortenFQNames="true">
-    <variable name="Widget" expression="&quot;Widget&quot;" defaultValue="" alwaysStopAt="true" />
+  <template name="animatedBldr" value="AnimatedBuilder(&#10;  animation: $animationController$,&#10;  child: $childWidget$,&#10;  builder: (BuildContext context, Widget child) {&#10;    return $buildWidget$;&#10;  },&#10;);" description="New AnimatedBuilder" toReformat="true" toShortenFQNames="true">
+    <variable name="animationController" expression="&quot;animationController&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="childWidget" expression="&quot;childWidget&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="buildWidget" expression="&quot;buildWidget&quot;" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="column" value="Column(&#10;  children: &lt;Widget&gt;[$goto$],&#10;)," description="Create Column Widget" toReformat="true" toShortenFQNames="true">
-    <variable name="goto" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
+  <template name="orientationBldr" value="OrientationBuilder(&#10;  builder: (BuildContext context, Orientation orientation) {&#10;return GridView.count(&#10;// Create a grid with 2 columns in portrait mode, or 3 columns in&#10;// landscape mode.&#10;crossAxisCount: orientation == Orientation.portrait ? 2 : 3,&#10;);&#10;},&#10;);" description="New OrientationBuilder" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="valueListenableBuilder" value="ValueListenableBuilder( &#10; valueListenable: $duration$, &#10; builder: (BuildContext context, $type$ value, Widget child) { &#10; return  $body$  &#10; }&#10;" description="Value Listenable Builder" toReformat="true" toShortenFQNames="true">
-    <variable name="valueListenable" expression="$valueListenable$" defaultValue="null" alwaysStopAt="true" />
-    <variable name="type" expression="$type$" defaultValue="dynamic" alwaysStopAt="true" />
-    <variable name="body" expression="$body$" defaultValue="Container();" alwaysStopAt="true" />
+  <template name="initS" value="@override&#10;void initState() { &#10;  super.initState();&#10;  // Add code after super&#10;}" description="Add initState Override" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
 </templateSet>
