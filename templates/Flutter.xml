@@ -1,14 +1,7 @@
 <templateSet group="Flutter">
-  <template name="animatedBldr" value="AnimatedBuilder(&#10;  animation: $animationController$,&#10;  child: $childWidget$,&#10;  builder: (BuildContext context, Widget child) {&#10;    return $buildWidget$;&#10;  },&#10;);" description="New AnimatedBuilder" toReformat="true" toShortenFQNames="true">
-    <variable name="animationController" expression="&quot;animationController&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="childWidget" expression="&quot;childWidget&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="buildWidget" expression="&quot;buildWidget&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="orientationBldr" value="OrientationBuilder(&#10;  builder: (BuildContext context, Orientation orientation) {&#10;return GridView.count(&#10;// Create a grid with 2 columns in portrait mode, or 3 columns in&#10;// landscape mode.&#10;crossAxisCount: orientation == Orientation.portrait ? 2 : 3,&#10;);&#10;},&#10;);" description="New OrientationBuilder" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="initS" value="@override&#10;void initState() { &#10;  super.initState();&#10;  // Add code after super&#10;}" description="Add initState Override" toReformat="true" toShortenFQNames="true">
+  <template name="subj" value="Stream&lt;$type$&gt; get name =&gt; _$nameSubject$.stream; &#10;  final _$nameSubject$ = BehaviorSubject&lt;$type$&gt;();" description="Add BehaviorSubject" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="$type$" defaultValue="" alwaysStopAt="true" />
+    <variable name="nameSubject" expression="$nameSubject$" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>
