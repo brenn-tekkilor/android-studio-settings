@@ -1,9 +1,4 @@
 <templateSet group="Flutter">
-  <template name="subj" value="Stream&lt;$type$&gt; get name =&gt; _$nameSubject$.stream; &#10;  final _$nameSubject$ = BehaviorSubject&lt;$type$&gt;();" description="Add BehaviorSubject" toReformat="true" toShortenFQNames="true">
-    <variable name="type" expression="$type$" defaultValue="" alwaysStopAt="true" />
-    <variable name="nameSubject" expression="$nameSubject$" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="valueListenableBuilder" value="ValueListenableBuilder( &#10; valueListenable: $duration$, &#10; builder: (BuildContext context, $type$ value, Widget child) { &#10; return  $body$  &#10; }&#10;" description="Value Listenable Builder" toReformat="true" toShortenFQNames="true">
     <variable name="valueListenable" expression="$valueListenable$" defaultValue="null" alwaysStopAt="true" />
     <variable name="type" expression="$type$" defaultValue="dynamic" alwaysStopAt="true" />
